@@ -6,10 +6,13 @@ Senior Software Engineer and Lead Backend Developer at Behamics, based in Prisht
 
 ## Selected projects
 
-| Project | What I built | Explore |
-| --- | --- | --- |
-| DataPC | An electronics storefront and repair-support platform, with customer accounts, pickup orders, inventory management and a staff dashboard. Built with Next.js, NestJS, PostgreSQL and Docker. | [Case study](https://leartmarteti-resume.vercel.app/projects/datapc/) · [Live site](https://datapc-ks.com/) |
-| Narrative Radar | A Solana research platform and Chrome extension, with queued data collection, rate-limited provider integrations and token research workflows. In development. | [Case study](https://leartmarteti-resume.vercel.app/projects/narrative-radar/) |
+### [DataPC](https://datapc-ks.com/)
+
+An electronics storefront and repair-support platform, with customer accounts, pickup orders, inventory management and a staff dashboard. Built with Next.js, NestJS, PostgreSQL and Docker.
+
+### [Narrative Radar](https://leartmarteti-resume.vercel.app/projects/narrative-radar/)
+
+A Solana research platform and Chrome extension, with queued data collection, rate-limited provider integrations and token research workflows. In development.
 
 ## Technical focus
 
