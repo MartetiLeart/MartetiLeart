@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="1000"><b>👋 Hey! I'm Leart</b> — Lead Backend Developer at Behamics, Prishtina, Kosovo</td>
-<td align="right"><a href="https://www.linkedin.com/in/leartmarteti/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://leartmarteti-resume.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/white" height="28" alt="Portfolio"></a></td>
+<td align="right"><a href="https://www.linkedin.com/in/leartmarteti/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://leartmarteti-resume.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-E8404F" alt="Portfolio"></a></td>
 </tr>
 <tr>
 <td colspan="2">
