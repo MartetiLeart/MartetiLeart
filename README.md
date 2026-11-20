@@ -9,6 +9,12 @@
 <a href="https://datapc-ks.com/"><img src="assets/datapc-live-desktop.jpg" width="49%" alt="DataPC"></a>
 </td>
 </tr>
+<tr>
+<td colspan="2">
+<a href="https://martetileart.github.io/system-design-quest/"><img src="assets/system-design-quest.png" width="49%" alt="System Design Quest"></a><br>
+🎮 <b>System Design Quest</b>: learn system design for interviews as a game, with quizzes, animated diagrams and spaced repetition · <a href="https://martetileart.github.io/system-design-quest/">Play</a> · <a href="https://github.com/MartetiLeart/system-design-quest">Code</a>
+</td>
+</tr>
 <tr><td colspan="2">
 
 **languages**<br>
