@@ -1,24 +1,64 @@
-# Leart Marteti
+<table>
+<tr>
+<td width="1000"><b>👋 Hey! I'm Leart</b> — Lead Backend Developer at Behamics, Prishtina, Kosovo</td>
+<td align="right"><a href="https://www.linkedin.com/in/leartmarteti/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://leartmarteti-resume.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/white" height="28" alt="Portfolio"></a></td>
+</tr>
+<tr>
+<td colspan="2">
+<a href="https://leartmarteti-resume.vercel.app/"><img src="assets/portfolio.png" width="49%" alt="Portfolio"></a>
+<a href="https://datapc-ks.com/"><img src="assets/datapc-live-desktop.jpg" width="49%" alt="DataPC"></a>
+</td>
+</tr>
+<tr><td colspan="2">
 
-Senior Software Engineer and Lead Backend Developer at Behamics, based in Prishtina, Kosovo. I build backend systems, AI workflows, integrations and web products.
+**languages**<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-222?logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-[Portfolio and CV](https://leartmarteti-resume.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/leartmarteti/)
+</td></tr>
+<tr><td colspan="2">
 
-## Selected projects
+**backend**<br>
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?logo=express)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?logo=redis&logoColor=white)
 
-### [DataPC](https://datapc-ks.com/)
+</td></tr>
+<tr><td colspan="2">
 
-An electronics storefront and repair-support platform, with customer accounts, pickup orders, inventory management and a staff dashboard. Built with Next.js, NestJS, PostgreSQL and Docker.
+**data**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-222?logo=clickhouse)
 
-### [Narrative Radar](https://leartmarteti-resume.vercel.app/projects/narrative-radar/)
+</td></tr>
+<tr><td colspan="2">
 
-A Solana research platform and Chrome extension, with queued data collection, rate-limited provider integrations and token research workflows. In development.
+**ai**<br>
+![Tool calling](https://img.shields.io/badge/Tool_calling-222?logo=openai)
+![RAG](https://img.shields.io/badge/RAG_&_embeddings-222?logo=anthropic)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white)
 
-## Technical focus
+</td></tr>
+<tr><td colspan="2">
 
-- **Backend:** Node.js, TypeScript, NestJS, Express.js and Python.
-- **Data and processing:** PostgreSQL, MongoDB, Redis, ClickHouse and BullMQ.
-- **AI systems:** model APIs, tool calling, retrieval-augmented generation and embeddings.
-- **Delivery:** Docker, GitHub Actions, NGINX, health checks and monitoring.
+**frontend**<br>
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
+![React](https://img.shields.io/badge/React-222?logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 
-At Behamics, my work includes behavioural analytics, experimentation, recommendations, session replay processing and AI-assisted data exploration.
+</td></tr>
+<tr><td colspan="2">
+
+**infra**<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?logo=hetzner&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+
+</td></tr>
+</table>
